@@ -1,6 +1,7 @@
 # DS_Airbnb_Analysis
 
-AIM OF THE PROJECT 
+AIM OF THE PROJECT
+
   This project aims to analyze Airbnb data, perform data cleaning and preparation, and create dynamic plots to gain insights into pricing variations and availability patterns.
 
   APPROACH FOR THE PROJECT
